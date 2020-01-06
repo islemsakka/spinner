@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.exemple{
+  height: 250px;
+  width: 200px;
+  border:1px  solid black ;
+  text-align: center;
+  margin: 1%;
+  
+
+}
+.img{
+  height: 200px;
+  width: 200px;
+
+}
+.movie{
+ 
+  margin-left: 40%;
+}
